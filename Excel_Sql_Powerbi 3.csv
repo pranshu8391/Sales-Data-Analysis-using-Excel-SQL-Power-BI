@@ -1,0 +1,10 @@
+order_id,customer_name,city,category,sales
+1,Amit,Pune,Furniture,500
+2,Neha,Mumbai,Technology,1200
+3,Raj,Pune,Furniture,-200
+4,Simran,Delhi,Office,0
+5,Karan,Mumbai,Furniture,800
+6,Aisha,Pune,Technology,1500
+7,John,Delhi,Technology,2000
+8,Ravi,Mumbai,Office,400
+9,unknown,Mumbai,Furniture,700
